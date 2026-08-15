@@ -1,82 +1,221 @@
-# 💫 About Me:
+<div align="center">
 
-👨‍💻 I’m currently working on  
-• AI-powered applications and RAG pipelines  
-• Full-stack projects using React, Node.js, and MySQL  
-• Blockchain-based applications using Solidity and Web3  
+👋 Hi, I'm Abhishek Yadav
 
-🤝 I’m looking to collaborate on  
-• Open-source projects  
-• AI/ML, backend, and software development projects  
+C++ Programmer • Software Developer • AI/RAG Builder • Blockchain Enthusiast
 
-🌱 I’m currently learning  
-• Advanced Data Structures & Algorithms  
-• AI, RAG & LLM applications  
-• Solidity & Web3  
+<p>
+  <a href="https://github.com/Abhish-git">
+    <img src="https://img.shields.io/badge/GitHub-Abhish--git-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/abhishek-yadav-674494297">
+    <img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:abhish3151@gmail.com">
+    <img src="https://img.shields.io/badge/Email-abhish3151%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-💬 Ask me about  
-• C++ and DSA  
-• Backend & Web Development  
-• AI/RAG applications  
-• Blockchain development  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+software+that+solves+real+problems;C%2B%2B+%7C+DSA+%7C+AI%2FRAG+%7C+Blockchain;Always+learning%2C+building%2C+and+improving" alt="Typing animation" />
 
-⚡ Fun fact  
-• I enjoy solving complex problems and turning ideas into working software 🚀
+</div>
 
-## 🌐 Socials:
+🧑‍💻 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-yadav-674494297)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhish3151@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/Abhish-git)
+I'm a C++ programmer and software developer who enjoys turning ideas into practical software.
 
-# 💻 Tech Stack:
+💻 Strong focus on C++, Data Structures & Algorithms, and problem solving
 
-### Languages
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+🤖 Building and exploring AI applications, RAG pipelines, and LLM-based systems
 
-### Web Development
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+⛓️ Working with Solidity, Web3, and blockchain-based applications
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+🌐 Building full-stack applications with React, Node.js, Express, and MySQL
 
-### AI / Data
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+🔓 Interested in open-source contribution and collaborative software development
 
-### Blockchain
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+🚀 I enjoy taking a problem from idea → implementation → testing → deployment
 
-# 📊 GitHub Stats:
+🏆 Problem Solving
 
-![](https://github-readme-stats.vercel.app/api?username=Abhish-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+<div align="center">
 
-![](https://nirzak-streak-stats.vercel.app/?user=Abhish-git&theme=dark&hide_border=false)
+📌 Achievement
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhish-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+📊 Progress
 
----
+Problems solved across competitive programming
 
-### 🧠 Problem Solving
+400+
 
-- 🔥 400+ problems solved across competitive programming platforms
-- 💻 300+ problems solved on LeetCode
-- 📅 200+ day LeetCode streak
-- 🏆 Peak contest rating: 1456
+LeetCode problems solved
 
----
+300+
 
-[![](https://visitcount.itsvg.in/api?id=Abhish-git&icon=0&color=0)](https://visitcount.itsvg.in)
-:::
+Consecutive LeetCode streak
+
+200+ days
+
+Peak contest rating
+
+1456
+
+</div>
+
+🛠️ Tech Stack
+
+👨‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,solidity,mysql" />
+</p>
+
+🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,html,css" />
+</p>
+
+🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+🤖 AI / Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+NumPy • Matplotlib • RAG • LLM Applications
+
+🔧 Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+🚀 Featured Projects
+
+🤖 RAG Project
+
+Retrieval-Augmented Generation application for intelligent document search and question answering.
+
+🔎 Document retrieval and contextual question answering
+
+🧠 Combines retrieval with LLM-generated responses
+
+🐍 Built with Python-based AI tooling
+
+🎯 Focused on improving answer relevance using retrieved context
+
+🔗 Repository: https://github.com/Abhish-git/RAG-Project
+
+⛓️ Student Management System — Blockchain
+
+A student management application integrating blockchain for transparent and tamper-resistant records.
+
+⛓️ Solidity smart contracts
+
+🌐 React frontend
+
+🟢 Node.js / Express backend
+
+🗄️ MySQL database
+
+🔐 Blockchain-based record verification
+
+🔗 GitHub: https://github.com/Abhish-git
+
+🚲 Bike Rental Management System
+
+Full-stack bike rental platform for managing users, bikes, and rental operations.
+
+⚛️ React frontend
+
+🟢 Node.js + Express backend
+
+🗄️ MySQL / MongoDB integration
+
+👤 User and rental management
+
+🔌 REST API based architecture
+
+🔗 GitHub: https://github.com/Abhish-git
+
+📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Abhish-git&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhish-git&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Abhish-git&theme=tokyonight&hide_border=true" />
+
+</div>
+
+📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhish-git&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+🎯 Currently Learning
+
+C++ / Advanced DSA       ███████████████████░░
+AI & RAG Systems         ████████████████░░░░░
+Backend Development      ████████████████░░░░░
+Solidity / Web3          ██████████████░░░░░░░
+System Design            ████████████░░░░░░░░
+
+🤝 Let's Collaborate
+
+I'm interested in collaborating on:
+
+🔓 Open-source projects
+
+🤖 AI / RAG applications
+
+🌐 Backend and full-stack applications
+
+⛓️ Blockchain / Web3 projects
+
+🧩 DSA and developer tooling
+
+If you're building something interesting, feel free to connect.
+
+📫 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/abhishek-yadav-674494297">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:abhish3151@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/Abhish-git">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<div align="center">
+
+💡 Code. Solve. Build. Repeat.
+
+<img src="https://komarev.com/ghpvc/?username=Abhish-git&label=Profile%20Views&color=38BDF8&style=flat" />
+
+</div>
